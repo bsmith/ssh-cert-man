@@ -5,3 +5,6 @@
 /___/___/_//_/    \__/\__/_/  \__/   /_/_/_/\_,_/_//_/
 ```
 
+In development, to update the files in bootstrap/, run `./update-bootstrap.sh`.
+
+To use this, set up the perl5 modules required run `./bootstrap_perl5.sh && . ./env.sh`.
